@@ -1,0 +1,13 @@
+node_modules/
+dist/
+backend/data/
+backend/storage/
+backend/fixtures/tmp-*
+*.db
+*.db-*
+.DS_Store
+.env
+.env.local
+frontend/dist/
+*.log
+.vite/
